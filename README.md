@@ -39,7 +39,7 @@ $$
 \frac{\vdash p_1 : \texttt{boolean} \quad \vdash p_2 : \texttt{boolean}}{\vdash \texttt{or} \ p_1 \ p_2 : \texttt{boolean}} \tag{Or}
 $$
 
-\newpage
+<!-- \newpage -->
 
 ### Ejemplos de expresiones bien tipadas:
 
@@ -77,7 +77,7 @@ Considerando que la interpretación estándar de las proposiciones es su valor d
    - (b) Definir un tipo `UProp`, de kind `*`, que represente el árbol de sintaxis abstracta no tipado del lenguaje.
    - (c) Escribir un *parser* del lenguaje utilizando los combinadores vistos en el curso (puede optar por usar los combinadores aplicativos o monádicos) y que retorne el valor de tipo `UProp` correspondiente.
 
-\newpage
+<!-- \newpage -->
 
 4. (OPCIONAL) Considere la siguiente extensión al lenguaje, en la que se agrega:
 
